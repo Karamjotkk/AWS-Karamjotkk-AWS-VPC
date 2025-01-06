@@ -16,7 +16,7 @@ cat <<EOF > /var/www/html/index.html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Portfolio</title>
+  <title>Terraform Project</title>
   <style>
     /* Add animation and styling for the text */
     @keyframes colorChange {
@@ -30,9 +30,9 @@ cat <<EOF > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <h1>Terraform Project Server 1</h1>
+  <h1>Terraform Project </h1>
   <h2>Instance ID: <span style="color:green">$INSTANCE_ID</span></h2>
-  <p>Welcome to Chaitanya Narang's AWS-VPC Using Terrafrom Project Implementation</p>
+  <p>Welcome to Karamjot Kaur VPC </p>
   
 </body>
 </html>
