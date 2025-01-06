@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
 <body>
   <h1>Terraform Project Server 1</h1>
   <h2>Instance ID: <span style="color:green">$INSTANCE_ID</span></h2>
-  <p>Welcome to Chaitanya Narang's AWS-VPC Using Terrafrom Project Implementation</p>
+  <p>Welcome to karamjot kaur's AWS-VPC Using Terrafrom Project Implementation</p>
   
 </body>
 </html>
