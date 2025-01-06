@@ -33,8 +33,7 @@ The infrastructure created includes:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/AWS-VPC.git
-
+   https://github.com/yourusername/AWS-Karamjotkk-AWS-VPC.git
 
 ## Requirements
 
