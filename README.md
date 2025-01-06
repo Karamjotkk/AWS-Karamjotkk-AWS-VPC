@@ -33,7 +33,7 @@ The infrastructure created includes:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/AWS-VPC-Using-Terraform.git
+   git clone https://github.com/yourusername/AWS-VPC.git
 
 
 ## Requirements
@@ -46,11 +46,11 @@ The infrastructure created includes:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/AWS-VPC-Using-Terraform.git
+   git clone https://github.com/yourusername/AWS-VPC.git
 
 2. **Navigate to the project directory**:
    ```bash
-   cd AWS-VPC-Using-Terraform
+   cd AWS-VPC
    
 3. **Initialize Terraform**:
    ```bash
